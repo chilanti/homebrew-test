@@ -1,4 +1,4 @@
-class TestMCFormula < Formula
+class Testmcformula < Formula
     desc "KnappPaks command-line interface"
     homepage "https://github.ibm.com/knapppaks/knapp-cli#readme"
     version "0.0.0"
